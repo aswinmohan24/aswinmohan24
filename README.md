@@ -1,8 +1,4 @@
-# 👋 Welcome to My GitHub Profile!
 # ![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white) Welcome to My GitHub Profile!
-
-...
-
 
 ## About Me
 
@@ -10,7 +6,6 @@ I'm a passionate Flutter developer with a knack for creating stunning and effici
 
 - 🌟 **Current Focus**: Building awesome and creative mobile apps with Flutter.
 - 🎯 **Goals**: To contribute to the Flutter community and work on innovative projects that push the boundaries of mobile app development.
-
 
 ## 💡Skills & Technologies
 
