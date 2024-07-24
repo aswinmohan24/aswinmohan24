@@ -10,11 +10,11 @@ I'm a passionate Flutter developer with a knack for creating stunning and effici
 
 ## 💡Skills & Technologies
 
-- **Languages**: Dart, JavaScript
+- **Languages**: Dart, JavaScript, Python
 - **Frameworks**: Flutter
-- **Databases**: Firebase Firestore, SQFLite
+- **Databases**: Firebase Firestore, SQFLite, Hive 
 - **State Management**: Riverpod, BloC
-- **Version Control**: Git,
+- **Version Control**: Git
 
 ## Let's Connect
 
