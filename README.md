@@ -4,7 +4,7 @@
 
 I'm a passionate Flutter developer with a knack for creating stunning and efficient mobile applications. 🚀
 
-- 🌟 **Current Focus**: Building cutting-edge mobile apps with Flutter.
+- 🌟 **Current Focus**: Building awesome and creative mobile apps with Flutter.
 - 🎯 **Goals**: To contribute to the Flutter community and work on innovative projects that push the boundaries of mobile app development.
 
 
