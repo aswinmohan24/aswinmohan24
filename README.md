@@ -30,9 +30,6 @@
   <span style="margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   </span>
-  <span style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  </span>
   
   <span style="margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
