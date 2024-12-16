@@ -21,9 +21,6 @@
     <img src="https://img.icons8.com/color/48/000000/dart.png"/>
   </span>
   <span style="margin: 10px;">
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  </span>
-  <span style="margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   </span>
   <span style="margin: 10px;">
@@ -43,9 +40,7 @@
   <span style="margin: 10px;">
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   </span>
-  <span style="margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="48" height="48"/>
-  </span>
+ 
 </p>
 
 ---
