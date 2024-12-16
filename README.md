@@ -9,7 +9,7 @@
 <p align="center">
 - 🌟 <strong>Current Focus:</strong> Developing high-quality mobile applications using Flutter to create seamless user experiences.<br>
 - 🎯 <strong>Goal:</strong> Enhance skills in full-stack mobile app development to deliver innovative solutions across various platforms.<br>
-- 🔧 <strong>Technologies I Love:</strong> Flutter, Dart, Firebase, FastAPI, PostgreSQL.<br>
+- 🔧 <strong>Technologies I Love:</strong> Flutter, Dart, Firebase, NodeJs.<br>
 </p>
 
 
